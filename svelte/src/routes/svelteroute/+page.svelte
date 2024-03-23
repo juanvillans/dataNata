@@ -1,0 +1,1 @@
+<h1>This is a svelte route !</h1>
