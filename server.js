@@ -3,7 +3,7 @@ import path from 'path';
 import {handler} from "./svelte/build/handler.js"
 
 const app = express();
-const port = "https://data-nata.vercel.app/";
+const port = "3000";
 
 // demo route
 app.get('/expressroute', (req, res) => {
